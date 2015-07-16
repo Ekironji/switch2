@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Serial Port API sample</string>
+    <string name="SentBytes">Sent Byte</string>
+    <string name="Zero">0</string>
+    <string name="ReceivedBack">Received Back</string>
+    <string name="LostBytes">Lost Bytes</string>
+    <string name="CorruptedBytes">Corrupted Bytes</string>
+    <string name="Setup">Setup</string>
+    <string name="Console">Console</string>
+    <string name="Loopback">Loopback</string>
+    <string name="Send01">Send 01010101</string>
+    <string name="Sending01">Sending 01010101 ...</string>
+    <string name="About">About</string>
+    <string name="Quit">Quit</string>
+    <string name="about_msg">
+Serial Port API sample v1.1\n
+\n
+This program is the sample application provided with project android-serialport-api.\n
+\n
+More information and bug report on [http://code.google.com/p/android-serialport-api]\n
+\n
+Copyright 2010-2011 Cedric Priscal\n
+\n
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at\n
+\n
+http://www.apache.org/licenses/LICENSE-2.0\n
+\n
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.\n
+	</string>
+    <string name="error_configuration">Please configure your serial port first.</string>
+    <string name="error_security">You do not have read/write permission to the serial
+		port.</string>
+    <string name="error_unknown">The serial port can not be opened for an unknown
+		reason.</string>
+
+
+    <!-- =============================== -->
+    <!--  app/activity examples strings  -->
+    <!-- =============================== -->
+
+    <string name="styled_12_hour_clock">MM/<font fgcolor="#ffff0000"><b>dd</b></font>/yy h<font fgcolor="#ffff0000"><sup><small>mm</small></sup></font><b>aa</b></string>
+    <string name="styled_24_hour_clock">MM/<font fgcolor="#ffff0000"><b>dd</b></font>/yy k<font fgcolor="#ffff0000"><sup><small>mm</small></sup></font></string>
+
+    <string name="tabs_1_tab_1">tab1</string>
+    <string name="tabs_1_tab_2">tab2</string>
+    <string name="tabs_1_tab_3">tab3</string>
+
+    <string name="pref_send_report">Send crash reports</string>
+    <string name="pref_send_report_summary">Helps to fix bugs</string>
+    <string name="pref_sync_frequency">Sync frequency</string>
+    <string name="pref_sync_frequency_summary">Set the sync frequency</string>
+    <string name="pref_user_name">Set username</string>
+    <string name="pref_user_name_summary">Set your username</string>
+
+    <string name="pref_user_profile">User Profile</string>
+    <string name="pref_update_setting">Update Settings</string>
+
+    <!-- =============================== -->
+    <!--  dummy meteo fragment strings   -->
+    <!-- =============================== -->
+
+    <string name="dummy_city">Arezzo</string>
+    <string name="dummy_time">12:30</string>
+    <string name="dummy_date">08/07/2014</string>
+    <string name="dummy_weather_state">Parzialmente nuvoloso</string>
+    <string name="dummy_grades">27°</string>
+
+    <!-- ===================================== -->
+    <!--  dummy mediaplayer fragment strings   -->
+    <!-- ===================================== -->
+
+</resources>

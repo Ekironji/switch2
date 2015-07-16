@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:baselineAligned="false"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal" >
+    
+    <!-- Song Thumbnail Image -->
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_weight="40"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+        
+        <ImageView
+            android:id="@+id/songThumbnail"
+            android:layout_width="match_parent"
+        	android:layout_height="match_parent"
+        	android:src="@drawable/music"/>
+
+    </RelativeLayout>
+    
+    <!-- Command Layout -->
+    <RelativeLayout
+        android:layout_width="0dp"
+        android:layout_weight="60"
+        android:layout_height="match_parent"
+        android:padding="10dp">  
+	 
+        <!-- Song Title -->            
+
+	    <TextView
+	        android:id="@+id/songTitle"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:layout_alignParentTop="true"
+	        android:layout_alignRight="@+id/player_footer_bg"
+	        android:layout_marginTop="30dp"
+	        android:textColor="#04b3d2"
+	        android:textSize="24sp"
+	        android:textStyle="bold" />
+	    
+	    <ImageButton 
+            android:id="@+id/volumeImageButton"
+            android:layout_width="35dp"
+        	android:layout_height="35dp"
+        	android:src="@drawable/ic_volume"
+        	android:layout_alignParentRight="true"
+			android:layout_alignParentTop="true"
+        	android:scaleType="fitCenter"
+        	android:background="@android:color/transparent"/>
+
+	    <TextView
+	        android:id="@+id/AlbumTitle"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+			android:layout_below="@+id/songTitle"
+	        android:textSize="16sp" />
+
+	    <!-- Player -->
+	    <LinearLayout
+	        android:id="@+id/player_footer_bg"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_above="@+id/songProgressBar"
+            android:layout_marginBottom="10dp"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true">
+
+	        <android_serialport_api.sample.views.CircolareConIndicatore
+	            android:id="@+id/btnPrevious"
+	            android:layout_width="80dp"
+	            android:layout_height="80dp" />
+
+	        <android_serialport_api.sample.views.CircolareConIndicatore
+	            android:id="@+id/btnPlay"
+	            android:layout_width="90dp"
+	            android:layout_height="90dp" />
+
+	        <android_serialport_api.sample.views.CircolareConIndicatore
+	            android:id="@+id/btnNext"
+	            android:layout_width="80dp"
+	            android:layout_height="80dp" />
+	    </LinearLayout>
+    
+	    <!-- Progress Bar/Seek bar -->
+	    <SeekBar
+	        android:id="@+id/songProgressBar"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_alignLeft="@+id/songTitle"
+	        android:layout_above="@+id/timerDisplay"
+	        android:paddingLeft="20dp"
+	        android:paddingRight="20dp"
+	        android:progressDrawable="@drawable/seekbar_progress"
+	        android:thumb="@drawable/seek_handler" />
+	    
+	    <!-- Timer Display -->
+	    <LinearLayout
+	        android:id="@+id/timerDisplay"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_alignLeft="@+id/player_footer_bg"
+	        android:layout_alignParentBottom="true"
+	        android:layout_marginBottom="20dp"
+	        android:paddingLeft="20dp"
+	        android:paddingRight="20dp" >
+
+	        <TextView
+	            android:id="@+id/songCurrentDurationLabel"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="left"
+	            android:textColor="#eeeeee"
+	            android:textStyle="bold" />
+
+	        <TextView
+	            android:id="@+id/songTotalDurationLabel"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="1"
+	            android:gravity="right"
+	            android:textColor="#04cbde"
+	            android:textStyle="bold" />
+	    </LinearLayout>
+    
+	</RelativeLayout>
+</LinearLayout>
+<!-- From: file:/C:/Users/Luigi/Desktop/android-serialport-api/app/src/main/res/layout/fragment_mediaplayer.xml -->

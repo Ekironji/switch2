@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res"><file name="abajure_off" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\abajure_off.png" qualifiers="" type="drawable"/><file name="abajure_on" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\abajure_on.png" qualifiers="" type="drawable"/><file name="bg_player_footer" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\bg_player_footer.xml" qualifiers="" type="drawable"/><file name="bulb_off" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\bulb_off.png" qualifiers="" type="drawable"/><file name="bulb_on" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\bulb_on.png" qualifiers="" type="drawable"/><file name="clouds" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\clouds.png" qualifiers="" type="drawable"/><file name="coperto" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\coperto.png" qualifiers="" type="drawable"/><file name="def_nuovoloso" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\def_nuovoloso.jpg" qualifiers="" type="drawable"/><file name="def_parzialmente_nuvoloso" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\def_parzialmente_nuvoloso.jpg" qualifiers="" type="drawable"/><file name="def_pioggia" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\def_pioggia.jpg" qualifiers="" type="drawable"/><file name="def_sole" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\def_sole.jpg" qualifiers="" type="drawable"/><file name="def_temporale" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\def_temporale.jpg" qualifiers="" type="drawable"/><file name="foschia" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\foschia.png" qualifiers="" type="drawable"/><file name="icon" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\icon.png" qualifiers="" type="drawable"/><file name="ic_next" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\ic_next.png" qualifiers="" type="drawable"/><file name="ic_pause" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\ic_pause.png" qualifiers="" type="drawable"/><file name="ic_play" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\ic_play.png" qualifiers="" type="drawable"/><file name="ic_prev" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\ic_prev.png" qualifiers="" type="drawable"/><file name="ic_volume" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\ic_volume.png" qualifiers="" type="drawable"/><file name="img_seekbar_bg" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\img_seekbar_bg.png" qualifiers="" type="drawable"/><file name="img_seekbar_progress_blue" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\img_seekbar_progress_blue.png" qualifiers="" type="drawable"/><file name="lampada_accesa" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\lampada_accesa.png" qualifiers="" type="drawable"/><file name="lampada_spenta" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\lampada_spenta.png" qualifiers="" type="drawable"/><file name="lamp_off" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\lamp_off.png" qualifiers="" type="drawable"/><file name="lamp_on" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\lamp_on.png" qualifiers="" type="drawable"/><file name="music" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\music.png" qualifiers="" type="drawable"/><file name="nebbia" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\nebbia.png" qualifiers="" type="drawable"/><file name="neve_neve_debole_pioggia_neve" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\neve_neve_debole_pioggia_neve.png" qualifiers="" type="drawable"/><file name="nuvoloso_molto_nuvoloso" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\nuvoloso_molto_nuvoloso.png" qualifiers="" type="drawable"/><file name="nuvoloso_neve_variabile_neve" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\nuvoloso_neve_variabile_neve.png" qualifiers="" type="drawable"/><file name="parzialmente_nuvoloso" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\parzialmente_nuvoloso.jpg" qualifiers="" type="drawable"/><file name="pioggia_pioggia_debole" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\pioggia_pioggia_debole.png" qualifiers="" type="drawable"/><file name="quasi_sereno_poco_nuvoloso" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\quasi_sereno_poco_nuvoloso.png" qualifiers="" type="drawable"/><file name="seekbar_progress" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\seekbar_progress.xml" qualifiers="" type="drawable"/><file name="seekbar_progress_bg" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\seekbar_progress_bg.xml" qualifiers="" type="drawable"/><file name="seek_handler" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\seek_handler.png" qualifiers="" type="drawable"/><file name="sereno" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\sereno.png" qualifiers="" type="drawable"/><file name="temporale_pioggia_forte" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\temporale_pioggia_forte.png" qualifiers="" type="drawable"/><file name="variabile_pioggia_nuvoloso_pioggia_debole_nuvoloso_pioggia" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\variabile_pioggia_nuvoloso_pioggia_debole_nuvoloso_pioggia.png" qualifiers="" type="drawable"/><file name="variabile_temporale" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\variabile_temporale.png" qualifiers="" type="drawable"/><file name="velato" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\drawable\velato.png" qualifiers="" type="drawable"/><file name="console" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\layout\console.xml" qualifiers="" type="layout"/><file name="fragment_citofono" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\layout\fragment_citofono.xml" qualifiers="" type="layout"/><file name="fragment_mediaplayer" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\layout\fragment_mediaplayer.xml" qualifiers="" type="layout"/><file name="fragment_meteo" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\layout\fragment_meteo.xml" qualifiers="" type="layout"/><file name="fragment_switch" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\layout\fragment_switch.xml" qualifiers="" type="layout"/><file name="main_activity" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\layout\main_activity.xml" qualifiers="" type="layout"/><file name="weather_windy_day" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\raw\weather_windy_day.mp4" qualifiers="" type="raw"/><file path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\values\arrays.xml" qualifiers=""><string-array name="syncFrequency">
+        <item name="1">Once a day</item>
+        <item name="7">Once a week</item>
+        <item name="3">Once a year</item>
+        <item name="0">Never (Update maually)</item>
+    </string-array><string-array name="syncFrequencyValues">
+        <item name="1">1</item>
+        <item name="7">7</item>
+        <item name="30">30</item>
+        <item name="0">0</item>
+    </string-array></file><file path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\values\baudrates.xml" qualifiers=""><string-array name="baudrates_name">
+        <item>50</item>
+        <item>75</item>
+        <item>110</item>
+        <item>134</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>1800</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>500000</item>
+        <item>576000</item>
+        <item>921600</item>
+        <item>1000000</item>
+        <item>1152000</item>
+        <item>1500000</item>
+        <item>2000000</item>
+        <item>2500000</item>
+        <item>3000000</item>
+        <item>3500000</item>
+        <item>4000000</item>
+    </string-array><string-array name="baudrates_value">
+        <item>50</item>
+        <item>75</item>
+        <item>110</item>
+        <item>134</item>
+        <item>150</item>
+        <item>200</item>
+        <item>300</item>
+        <item>600</item>
+        <item>1200</item>
+        <item>1800</item>
+        <item>2400</item>
+        <item>4800</item>
+        <item>9600</item>
+        <item>19200</item>
+        <item>38400</item>
+        <item>57600</item>
+        <item>115200</item>
+        <item>230400</item>
+        <item>460800</item>
+        <item>500000</item>
+        <item>576000</item>
+        <item>921600</item>
+        <item>1000000</item>
+        <item>1152000</item>
+        <item>1500000</item>
+        <item>2000000</item>
+        <item>2500000</item>
+        <item>3000000</item>
+        <item>3500000</item>
+        <item>4000000</item>
+    </string-array></file><file path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\values\strings.xml" qualifiers=""><string name="About">About</string><string name="pref_sync_frequency_summary">Set the sync frequency</string><string name="LostBytes">Lost Bytes</string><string name="Loopback">Loopback</string><string name="SentBytes">Sent Byte</string><string name="pref_send_report">Send crash reports</string><string name="pref_send_report_summary">Helps to fix bugs</string><string name="Quit">Quit</string><string name="Zero">0</string><string name="Console">Console</string><string name="pref_user_name_summary">Set your username</string><string name="pref_user_name">Set username</string><string name="tabs_1_tab_2">tab2</string><string name="dummy_grades">27°</string><string name="styled_12_hour_clock">MM/<font fgcolor="#ffff0000"><b>dd</b></font>/yy h<font fgcolor="#ffff0000"><sup><small>mm</small></sup></font><b>aa</b></string><string name="tabs_1_tab_1">tab1</string><string name="pref_sync_frequency">Sync frequency</string><string name="dummy_weather_state">Parzialmente nuvoloso</string><string name="dummy_city">Arezzo</string><string name="Sending01">Sending 01010101 ...</string><string name="ReceivedBack">Received Back</string><string name="Send01">Send 01010101</string><string name="tabs_1_tab_3">tab3</string><string name="CorruptedBytes">Corrupted Bytes</string><string name="Setup">Setup</string><string name="dummy_date">08/07/2014</string><string name="about_msg">
+Serial Port API sample v1.1\n
+\n
+This program is the sample application provided with project android-serialport-api.\n
+\n
+More information and bug report on [http://code.google.com/p/android-serialport-api]\n
+\n
+Copyright 2010-2011 Cedric Priscal\n
+\n
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at\n
+\n
+http://www.apache.org/licenses/LICENSE-2.0\n
+\n
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.\n
+	</string><string name="error_security">You do not have read/write permission to the serial
+		port.</string><string name="app_name">Serial Port API sample</string><string name="dummy_time">12:30</string><string name="error_unknown">The serial port can not be opened for an unknown
+		reason.</string><string name="error_configuration">Please configure your serial port first.</string><string name="styled_24_hour_clock">MM/<font fgcolor="#ffff0000"><b>dd</b></font>/yy k<font fgcolor="#ffff0000"><sup><small>mm</small></sup></font></string><string name="pref_update_setting">Update Settings</string><string name="pref_user_profile">User Profile</string></file><file path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style><style name="OverlayText">
+	    <item name="android:paddingLeft">4dp</item>
+	    <item name="android:paddingBottom">4dp</item>
+	    <item name="android:textColor">#ffffffff</item>
+	    <item name="android:textSize">12sp</item>
+	    <item name="android:shadowColor">#000000</item>
+	    <item name="android:shadowDx">1</item>
+	    <item name="android:shadowDy">1</item>
+	    <item name="android:shadowRadius">1</item>
+	</style><style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style></file><file name="serial_port_preferences" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\xml\serial_port_preferences.xml" qualifiers="" type="xml"/><file name="fragment_power_consumption" path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\main\res\layout\fragment_power_consumption.xml" qualifiers="" type="layout"/></source><source path="C:\Users\Luigi\Desktop\android-serialport-api\app\build\generated\res\rs\debug"/><source path="C:\Users\Luigi\Desktop\android-serialport-api\app\build\generated\res\generated\debug"/></dataSet><dataSet config="debug"><source path="C:\Users\Luigi\Desktop\android-serialport-api\app\src\debug\res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Luigi\Desktop\android-serialport-api\app\libs\android-support-v13.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f5fa2183e286730a81f3076f19022539902a24f3">
+        <dex dex="C:\Users\Luigi\Desktop\android-serialport-api\app\build\intermediates\pre-dexed\debug\android-support-v13-4d1c6ce1a75745ab4aff7817207359cc43a31017.jar" />
+    </item>
+
+</items>
