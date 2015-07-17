@@ -39,6 +39,7 @@ public class SwitchFragment extends Fragment {
 		lamp.setLayoutParams(new LinearLayout.LayoutParams(switchSize, switchSize));
 		lamp.setSwitchEventListener(new OnSwitchEventListener() {
 			public void onEvent() {
+                Log.i(TAG, "Event fine circolo Relay1");
 				if (isVisible) {
 					mRelaysManager.switchRelay(RelaysManager.RELAY1, lamp.isInterruttoreAcceso() ? RelaysManager.ON
 							: RelaysManager.OFF);// 1 = ON; 0 = OFF);
@@ -52,10 +53,10 @@ public class SwitchFragment extends Fragment {
 		abajure.setLayoutParams(new LinearLayout.LayoutParams(switchSize, switchSize));
 		abajure.setSwitchEventListener(new OnSwitchEventListener() {
 			public void onEvent() {
-				Log.i(TAG, "Event fine circolo");
+				Log.i(TAG, "Event fine circolo Relay2");
 				if (isVisible) {
 
-					mRelaysManager.switchRelay(RelaysManager.RELAY2, lamp.isInterruttoreAcceso() ? RelaysManager.ON
+					mRelaysManager.switchRelay(RelaysManager.RELAY2, abajure.isInterruttoreAcceso() ? RelaysManager.ON
 							: RelaysManager.OFF);
 
 				}
@@ -68,10 +69,10 @@ public class SwitchFragment extends Fragment {
 		bulb.setLayoutParams(new LinearLayout.LayoutParams(switchSize, switchSize));
 		bulb.setSwitchEventListener(new OnSwitchEventListener() {
 			public void onEvent() {
-				Log.i(TAG, "Event fine circolo");
+				Log.i(TAG, "Event fine circolo Relay3");
 				if (isVisible) {
 
-					mRelaysManager.switchRelay(RelaysManager.RELAY3, lamp.isInterruttoreAcceso() ? RelaysManager.ON
+					mRelaysManager.switchRelay(RelaysManager.RELAY3, bulb.isInterruttoreAcceso() ? RelaysManager.ON
 							: RelaysManager.OFF);
 
 				}
